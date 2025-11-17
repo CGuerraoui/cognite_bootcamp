@@ -1,5 +1,5 @@
 name: icapi_extractors
-sourceId: {{ ICAPI_EXTRACTORS_SOURCE_ID }}
+sourceId: {{icapi_extractors_source_id }}
 capabilities:
   - datasetsAcl:
       actions: [READ]
